@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkerly - Jamaican Checkers by Lite Codez Technologies</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #1e40af;
+            --text: #1f2937;
+            --background: #f9fafb;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        body {
+            background-color: var(--background);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        .navbar {
+            background: white;
+            padding: 1rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 100;
+        }
+
+        .navbar-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .hero {
+            padding: 8rem 1rem 4rem;
+            text-align: center;
+            background: linear-gradient(to bottom, #ffffff, var(--background));
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto 2rem;
+            color: #4b5563;
+        }
+
+        .features {
+            padding: 4rem 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .feature-card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .cta {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.375rem;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }
+
+        .cta:hover {
+            background: var(--secondary);
+        }
+
+        .contact {
+            background: white;
+            padding: 4rem 1rem;
+            text-align: center;
+        }
+
+        .contact h2 {
+            margin-bottom: 2rem;
+        }
+
+        footer {
+            background: var(--text);
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+            
+            .hero p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-content">
+            <div class="logo">Checkerly</div>
+            <a href="mailto:litecodezofficial@gmail.com" class="cta">Contact Us</a>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <h1>Welcome to Checkerly</h1>
+        <p>Experience the excitement of traditional Jamaican Checkers in a modern digital format. Challenge friends, improve your skills, and become a master of the game.</p>
+        <a href="#features" class="cta">Learn More</a>
+    </section>
+
+    <section class="features" id="features">
+        <div class="features-grid">
+            <div class="feature-card">
+                <h3>Authentic Jamaican Rules</h3>
+                <p>Play Jamaican Checkers with traditional rules, bringing the authentic experience to your device.</p>
+            </div>
+            <div class="feature-card">
+                <h3>Online Multiplayer</h3>
+                <p>Challenge players from around the world or play with friends in real-time matches.</p>
+            </div>
+            <div class="feature-card">
+                <h3>Rating System</h3>
+                <p>Track your progress with our ELO rating system and compete for top positions on the leaderboard.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact">
+        <h2>Get In Touch</h2>
+        <p>Have questions or feedback? We'd love to hear from you!</p>
+        <a href="mailto:litecodezofficial@gmail.com" class="cta">Email Us</a>
+    </section>
+
+    <footer>
+        <p>© 2025 Checkerly - A Product of Lite Codez Technologies</p>
+        <p><a href="mailto:litecodezofficial@gmail.com">litecodezofficial@gmail.com</a></p>
+    </footer>
+</body>
+</html>
