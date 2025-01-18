@@ -6,5 +6,5 @@
 - Other minor bug fixes
 
 ## New Features
-- Added player game result history\n
-- Added option to change the colour of the board and pieces\n
+- Added player game result history
+- Added option to change the colour of the board and pieces
