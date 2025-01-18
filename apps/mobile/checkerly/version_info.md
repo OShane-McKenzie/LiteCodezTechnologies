@@ -8,3 +8,4 @@
 ## New Features
 - Added player game result history
 - Added option to change the colour of the board and pieces
+- Added colour-coded player rating on game invites
