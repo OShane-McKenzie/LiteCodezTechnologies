@@ -1,4 +1,4 @@
-# Update Notes
+# Update Available:
 
 ## Fixes
 - Fixed ghost moves
