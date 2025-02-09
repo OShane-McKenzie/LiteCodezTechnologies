@@ -1,5 +1,5 @@
 # Update Available:
-## v1.5
+## v1.6
 ### Fixes
-- Stability updates
+- Multiple bug fixes
 ---
