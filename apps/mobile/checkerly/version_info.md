@@ -1,8 +1,10 @@
 # Update Available:
 ---
 
-## v1.7
+## v1.8
 ### Features
-- Added a close button to the chat panel
+- Added Dynamic links
+- Added option to share game invites
+- Added notifications and reminders.
 ### Fixes
 - Bug fixes
