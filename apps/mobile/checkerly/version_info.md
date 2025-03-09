@@ -1,7 +1,7 @@
 # Update Available:
 ---
 
-## v1.9
+## v2.0
 
 ### Fixes
 - Bug fixes
