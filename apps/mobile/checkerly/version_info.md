@@ -1,7 +1,8 @@
 # Update Available:
 ---
 
-## v2.1
+## v2.2
 
 ### Fixes
+- Bug fixes
 - Stability updates
