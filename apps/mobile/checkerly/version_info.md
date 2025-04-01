@@ -1,7 +1,7 @@
 # Update Available:
 ---
 
-## v2.3
+## v2.4
 ### Features
 - New ability to exclude players
 - Ability to prevent Screen shots
