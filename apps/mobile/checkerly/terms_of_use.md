@@ -1,6 +1,6 @@
 # Checkerly Terms of Use
 
-Last Updated: January 7, 2025
+Last Updated: April 13, 2025
 
 ## 1. Agreement to Terms
 
@@ -51,9 +51,11 @@ You must not:
 - All rights not explicitly granted are reserved
 
 ### User Content
-- You retain ownership of your user content
-- You grant us rights to display your username and game records
-- We may remove inappropriate content
+- By using the App, you grant us a perpetual, irrevocable, worldwide, royalty-free, and transferable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display all user-generated content (including but not limited to game plays, strategies, moves, comments, and any other content you create, upload, or share through the App)
+- This license includes the right to use your content for any purpose, commercial or otherwise, without compensation to you
+- You represent and warrant that you own or have secured all necessary rights to grant us these permissions
+- We may use, share, or repurpose your game data, plays, and patterns for App improvements, training, or other services
+- We may remove any user content at our sole discretion
 
 ## 6. Third-Party Services
 
