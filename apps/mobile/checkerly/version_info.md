@@ -1,10 +1,10 @@
 # Update Available:
 ---
 
-## v2.4
+## v3.1
 ### Features
-- New ability to exclude players
-- Ability to prevent Screen shots
+- Russian variant (Alpha)
+- UI Improvements
 ### Fixes
 - Bug fixes
 - Stability updates
