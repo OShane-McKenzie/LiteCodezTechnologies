@@ -1,13 +1,63 @@
 {
   "videos":[
+        {
+        "id":1,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/ally_game.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/ally_game.png",
+        "title":"Introduction to the Ally Game",
+        "description":"A demonstration of some common position in the ally game.",
+        "duration":"3 mins & 8 secs",
+        "author":"O'Shane McKenzie"
+    },
+    
     {
-            "id":0,
-            "url":"https://oshane-mckenzie.github.io/law_resources/videos/sudden_death.mp4",
-            "thumbnail":"https://oshane-mckenzie.github.io/law_resources/images/sudden_death.png",
-            "title":"Sudden Death Investigations",
-            "description":"A guide for Police dealing with sudden and unnatural deaths, providing detailed procedures to ensure thorough investigations and proper handling of evidence.",
-            "duration":"5 mins & 29 secs",
-            "author":"O'Shane McKenzie"
-        }
+        "id":2,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/catch.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/catch.png",
+        "title":"Catch Me if you can",
+        "description":"A demonstration of common King vs King end games.",
+        "duration":"5 mins & 18 secs",
+        "author":"O'Shane McKenzie"
+    },
+    
+    {
+        "id":3,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/city_game.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/city_game.png",
+        "title":"Introduction to the City Game.",
+        "description":"A demonstration of some common position in the city game.",
+        "duration":"3 mins & 3 secs",
+        "author":"O'Shane McKenzie"
+    },
+    
+    {
+        "id":4,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/hook.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/hook.png",
+        "title":"Introduction to the Hook Game.",
+        "description":"A demonstration of some common position in the hookgame.",
+        "duration":"2 mins & 57 secs",
+        "author":"O'Shane McKenzie"
+    },
+    
+    {
+        "id":5,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/openings.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/openings.png",
+        "title":"Simple Openings",
+        "description":"A demonstration of common openings.",
+        "duration":"2 mins & 3 secs",
+        "author":"O'Shane McKenzie"
+    },
+    
+    {
+        "id":6,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/parasites.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/parasites.png",
+        "title":"Dealing with Parasites",
+        "description":"A demonstration of common parasite end games.",
+        "duration":"4 mins & 5 secs",
+        "author":"O'Shane McKenzie"
+    }
   ]
 }
