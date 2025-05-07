@@ -1,10 +1,6 @@
 # Update Available:
 ---
 
-## v3.1
-### Features
-- Russian variant (Alpha)
-- UI Improvements
+## v3.2
 ### Fixes
-- Bug fixes
-- Stability updates
+- Bug fixes, Russian variant (Alpha)
