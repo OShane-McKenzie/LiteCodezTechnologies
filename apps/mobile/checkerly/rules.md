@@ -24,3 +24,43 @@
 A player loses the game when either:
 - They have no valid moves available on their turn
 - All of their pieces have been captured
+
+---
+
+# Russian Checkers - Game Rules
+
+## Setup and Board
+- The game is played on an 8x8 board with alternating dark and light squares
+- The left square of the first rank should be dark
+- Two players face each other across the board
+- Each player starts with 12 pieces (men)
+- Pieces are placed on the dark squares of the first three rows closest to each player
+- One player uses white (or lighter) pieces, the other uses black (or darker) pieces
+
+## Basic Movement and Gameplay
+- White (lighter) pieces always make the first move
+- Men move forward diagonally one square at a time
+- When a man reaches the opposite end of the board (the "kings row" or "crownhead"), it is crowned and becomes a King
+- Kings can move forward or backward diagonally, and can choose any free square along this diagonal to land on
+
+## Captures and Jumps
+- A capture occurs when a piece jumps over an opponent's piece to a vacant square beyond it
+- The captured piece is removed from the board after the entire jumping sequence is completed
+- Captures are mandatory - if a player can make a capture, they must do so
+- Men can jump forward and backward when capturing
+- When multiple capture opportunities exist, the player may choose which sequence to make
+- The player must complete all possible captures in the chosen sequence
+- If a man reaches the kings row during a capture sequence, it immediately becomes a king and can continue capturing as a king (including moving backward)
+- A piece that has been jumped cannot be jumped again in the same sequence
+
+## Winning and Draws
+A player loses the game when either:
+- They have no valid moves available on their turn
+- All of their pieces have been captured
+
+A draw occurs when:
+- Neither player has the possibility to win
+- The same position repeats for the third time with the same player to move
+- Both players agree to a draw
+- A player has three or more kings against a single enemy king and cannot capture it within 15 moves
+- During 15 consecutive moves, only kings are moved with no men moved and no captures made
