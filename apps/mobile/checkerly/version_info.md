@@ -1,8 +1,8 @@
 # Update Available:
 ---
 
-## v3.3
+## v3.4
 ### Features
-- Added video library
+- Added Pool variant
 ### Fixes
-- Bug fixes, Russian variant (Alpha)
+- Bug fixes
