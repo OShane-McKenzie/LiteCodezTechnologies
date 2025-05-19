@@ -64,3 +64,33 @@ A draw occurs when:
 - Both players agree to a draw
 - A player has three or more kings against a single enemy king and cannot capture it within 15 moves
 - During 15 consecutive moves, only kings are moved with no men moved and no captures made
+
+---
+
+# American Pool Checkers - Game Rules
+
+## Setup and Board
+- The game is played on an 8×8 board with alternating dark and light squares
+- The dark corner square should be to the left of each player
+- Each player starts with 12 pieces
+- Pieces are placed on the dark squares of the first three rows closest to each player
+- One player uses dark pieces, the other uses light pieces
+
+## Basic Movement and Gameplay
+- The player with black pieces always makes the first move
+- Men (regular pieces) must move diagonally one square forward only
+- Men can only capture diagonally forward or backward
+- When a man reaches the last horizontal row (king's row), it is crowned and becomes a King
+- If a man reaches the king's row during a capture sequence, it is immediately crowned but must stop its movement (cannot continue capturing)
+
+## Kings Movement
+- Kings can move any number of fields diagonally, both forward and backward
+- Kings can change direction after a jump and continue capturing in another path during a multi-jump sequence
+- Kings must make all possible jumps during a capture sequence
+
+## Captures and Jumps
+- Capturing opponent's checkers is mandatory when possible
+- With multiple capture options available, the player chooses which capture sequence to make
+- In the chosen sequence, it is necessary to capture all available pieces in that path
+- It is not necessary to choose the sequence with the maximum number of captures
+- An opponent's piece may not be captured more than once in the same sequence
