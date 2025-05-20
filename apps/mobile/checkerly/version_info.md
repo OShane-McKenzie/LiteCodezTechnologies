@@ -1,8 +1,8 @@
 # Update Available:
 ---
 
-## v3.5
+## v3.6
 ### Features
 - Minor improvements
 ### Fixes
-- Notation on board for pool 
+- Minor bug fixes 
