@@ -1,7 +1,7 @@
 # Update Available:
 ---
 
-## v3.8
+## v3.9
 ### Features
 - Minor improvements
 ### Fixes
