@@ -1,8 +1,8 @@
 # Update Available:
 ---
 
-## v3.9
+## v4.0
 ### Features
-- Minor improvements
+- UI updates
 ### Fixes
 - Minor bug fixes 
