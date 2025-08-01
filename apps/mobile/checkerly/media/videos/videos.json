@@ -58,6 +58,24 @@
         "description":"A demonstration of common parasite end games.",
         "duration":"4 mins & 5 secs",
         "author":"O'Shane McKenzie"
+    },
+    {
+        "id":7,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/variation_1.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/variation_1.png",
+        "title":"Interesting Variations.",
+        "description":"A video explaining an interesting position where white sacrafices a piece to gain an advantage.",
+        "duration":"1 min & 4 secs",
+        "author":"Everton Williams (Bookman)"
+    },
+    {
+        "id":8,
+        "url":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/videos/random_1.mp4",
+        "thumbnail":"https://oshane-mckenzie.github.io/LiteCodezTechnologies/apps/mobile/checkerly/media/images/random_1.png",
+        "title":"Random Opening Tutorial 1",
+        "description":"An educational tutorial on a specific random opening, explaining how piece placements affect the game and what optimal responses are, while introducing concepts like “periscope,” “periphery,” “Kintoff line,” and “Trev zone.”",
+        "duration":"1 min & 52 secs",
+        "author":"Everton Williams (Bookman)"
     }
   ]
 }
